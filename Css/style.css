@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+}
+strong{
+    color: cadetblue;
+}
+*{
+    background-color: rgb(193, 190, 190);
+}
+.btn{
+background-color: rgb(126, 140, 135);
+} 
+h1,strong,small{
+    background-color: bisque;
+}
+img{
+    height: 200px;
+    margin: 0;
+    border-radius: 200px;
+}
+img:hover{
+    transition:2s;
+    transform:scale(1.2);
+    transform:scaleX(-1);
+    border-color: black;
+    border: 10px solid black;
+}
+#css {
+    color: blueviolet;
+}

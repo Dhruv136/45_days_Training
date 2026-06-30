@@ -1,0 +1,19 @@
+table{
+    border: 2px solid black;
+    background: white;
+}
+*{
+margin: 10px;
+background-color: chocolate;
+
+}
+h1{
+    margin: 10px;
+    background-color: green;
+    padding: 10px;
+
+}
+form{
+    border: 2px solid black;
+    padding: 100px ;
+}
